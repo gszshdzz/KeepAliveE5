@@ -2,7 +2,7 @@ name: Invoke API
 
 on:
   schedule:
-    - cron: "32 */4 * * *"
+#    - cron: "32 */4 * * *"
   workflow_dispatch:
 
 jobs:
